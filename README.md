@@ -33,6 +33,11 @@ chmod +x install.sh
 ./install.sh
 ```
 
+## Guides
+
+📖 **[Quick Start Guide](QUICK_START.md)** — Step-by-step for beginners  
+📱 **[Telegram Setup](TELEGRAM_SETUP.md)** — Control Clawdbot from your phone  
+
 ## After Installation
 
 ### Start Clawdbot TUI
@@ -49,6 +54,9 @@ cd ~/clawd/dexter && bun start
 ```
 http://localhost:18789
 ```
+
+### Use on Telegram
+See [Telegram Setup Guide](TELEGRAM_SETUP.md) for step-by-step instructions.
 
 ## Troubleshooting
 
